@@ -1,0 +1,20 @@
+{
+  "name": "gaffino-website",
+  "version": "1.0.0",
+  "description": "Restaurant Gaffino — Website premium cinematografic pentru Galați. Bucătărie românească și mediteraneană.",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "start": "npx serve . -l 3000",
+    "build": "echo 'Static site — no build required'"
+  },
+  "keywords": [
+    "restaurant",
+    "galati",
+    "gaffino",
+    "romanian-food",
+    "mediterranean"
+  ],
+  "author": "Restaurant Gaffino",
+  "license": "UNLICENSED"
+}
